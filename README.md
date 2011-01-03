@@ -14,7 +14,9 @@ rake sandbox (and get a sandwich)
 
 git clone git://github.com/spree/spree_social --depth 1
 
-add this to sandbox/Gemfile
+cd sandbox
+
+add this to the Gemfile for the sandbox
 
 gem "spree_social", :path => "../spree_social"
 
